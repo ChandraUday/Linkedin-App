@@ -16,9 +16,7 @@ function Login() {
          <div className='login_header'>
             <img src="https://1000logos.net/wp-content/uploads/2017/05/Netflix-Logo.png" alt="" className='login_logo'/>
              
-             <button className="login_button">
-                Sign In
-             </button>
+             
          </div>
 
          <div className="login_body">
